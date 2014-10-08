@@ -2,7 +2,7 @@
   "name": "gauge-directive",
   "description": "Draws gauge with percent value and label",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "gauge.js",
