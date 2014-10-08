@@ -1,0 +1,12 @@
+<div class="gauge">
+  <div
+    class="easypiechart"
+    easypiechart
+    options="options"
+    percent="value * 100 || 0">
+  </div>
+  <div class="value">
+    <small ng-if="label">{{label}}</small>
+    <span ng-bind="value | numeral:'0%'"></span>
+  </div>
+</div>
