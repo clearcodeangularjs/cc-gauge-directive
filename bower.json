@@ -16,7 +16,7 @@
     "angular": "~1.0.6",
     "jquery": "~1.10.2",
     "numeraljs-filter": "~1.0.0",
-    "jquery.easy-pie-chart": "https://github.com/witq/easy-pie-chart.git#6012d15dc1ccde24eb3f6345362cde7f79121ab2",
+    "jquery.easy-pie-chart": "https://github.com/witq/easy-pie-chart.git#6012d15dc1ccde24eb3f6345362cde7f79121ab2"
     
   },
   "devDependencies": {
