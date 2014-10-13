@@ -24,7 +24,7 @@
   'use strict';
 
   angular
-    .module('cc.gauge.directive')
+    .module('cc.gauge.directive', [])
     .directive('gauge', [function () {
       return {
         templateUrl: 'partials/directive_gauge.html',
