@@ -4,6 +4,7 @@
   "authors": [
   "ClearCode (http://clearcode.cc)"
 ],
+"homepage": "http://plnkr.co/edit/rfuhikBHDiUv5ctfohyq?p=preview",
   "version": "1.0.0",
   "main": "gauge.js",
   "ignore": [
