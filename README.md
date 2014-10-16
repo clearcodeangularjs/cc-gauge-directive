@@ -5,7 +5,7 @@ Draws gauge with percent value and label
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-gauge-directive --save ```
 
 
 Usage
