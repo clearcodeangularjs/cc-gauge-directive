@@ -6,7 +6,7 @@
 	],
 	"homepage": "http://plnkr.co/edit/rfuhikBHDiUv5ctfohyq?p=preview",
 	"version": "1.0.0",
-	"main": "gauge.js",
+	"main": "script/directives/gauge.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
