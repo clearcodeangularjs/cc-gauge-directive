@@ -1,5 +1,5 @@
 {
-	"name": "gauge-directive",
+	"name": "cc-gauge-directive",
 	"description": "Draws gauge with percent value and label",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
@@ -16,7 +16,7 @@
 	"dependencies": {
 		"angular": "~1.0.6",
 		"jquery": "~1.10.2",
-		"numeraljs-filter": "~1.0.0",
+		"cc-numeral-filter": "clearcodeangularjs/cc-numeral-filter",
 		"jquery-easy-pie-chart": "https://github.com/witq/easy-pie-chart.git#6012d15dc1ccde24eb3f6345362cde7f79121ab2"
 	},
 	"devDependencies": {
